@@ -1,0 +1,263 @@
+﻿code;secteur;sous_secteur;nom;metropole;outre_mer
+AGRI-EQ-101;AGRI;EQ;Module d’intégration de température installé sur un ordinateur climatique;1;1
+AGRI-EQ-102;AGRI;EQ;Double écran thermique;1;1
+AGRI-EQ-104;AGRI;EQ;Ecrans thermiques latéraux;1;1
+AGRI-EQ-105;AGRI;EQ;Stop & Start pour véhicules agricoles à moteur;1;1
+AGRI-EQ-107;AGRI;EQ;Isolation des parois de serre;1;1
+AGRI-EQ-108;AGRI;EQ;Stockage d’eau pour une serre bioclimatique;1;1
+AGRI-EQ-109;AGRI;EQ;Couverture performante de serre;1;1
+AGRI-EQ-110;AGRI;EQ;Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides;1;1
+AGRI-EQ-111;AGRI;EQ;Simple écran thermique;1;1
+AGRI-SE-101;AGRI;SE;Contrôle et préconisations de réglage du moteur d’un tracteur;1;1
+AGRI-TH-101;AGRI;TH;Dispositif de stockage d’eau chaude de type « Open Buffer »;1;1
+AGRI-TH-102;AGRI;TH;Dispositif de stockage d’eau chaude;1;1
+AGRI-TH-103;AGRI;TH;Pré-refroidisseur de lait;1;1
+AGRI-TH-104;AGRI;TH;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;1;1
+AGRI-TH-105;AGRI;TH;Récupérateur de chaleur sur tank à lait;1;1
+AGRI-TH-108;AGRI;TH;Pompe à chaleur de type air/eau ou eau/eau;1;1
+AGRI-TH-109;AGRI;TH;Récupérateur de chaleur à condensation pour serres horticoles;1;1
+AGRI-TH-110;AGRI;TH;Chaudière à haute performance énergétique pour serres horticoles;1;1
+AGRI-TH-113;AGRI;TH;Échangeur récupérateur de chaleur air/air dans un bâtiment d’élevage de volailles;1;1
+AGRI-TH-116;AGRI;TH;Récupération de chaleur fatale issue d’un procédé industriel pour le chauffage d’une serre ou d’un bâtiment d’élevage;1;1
+AGRI-TH-117;AGRI;TH;Déshumidificateur thermodynamique pour serres;1;1
+AGRI-TH-118;AGRI;TH;Double tube de chauffage pour serres;1;1
+AGRI-TH-119;AGRI;TH;Système de déshumidification avec air extérieur;1;1
+AGRI-UT-101;AGRI;UT;Moto-variateur synchrone à aimants permanents ou à reluctance;1;1
+AGRI-UT-102;AGRI;UT;Système de variation électronique de vitesse sur un moteur asynchrone;1;1
+AGRI-UT-103;AGRI;UT;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante;1;1
+AGRI-UT-104;AGRI;UT;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante;1;1
+BAR-EN-101;BAR;EN;Isolation de combles ou de toitures;1;0
+BAR-EN-102;BAR;EN;Isolation des murs;1;0
+BAR-EN-103;BAR;EN;Isolation d’un plancher;1;1
+BAR-EN-104;BAR;EN;Fenêtre ou porte-fenêtre complète avec vitrage isolant;1;1
+BAR-EN-105;BAR;EN;Isolation des toitures terrasses;1;1
+BAR-EN-106;BAR;EN;Isolation de combles ou de toitures (France d’outre-mer);0;1
+BAR-EN-107;BAR;EN;Isolation des murs (France d’outre-mer);0;1
+BAR-EN-108;BAR;EN;Fermeture isolante;1;1
+BAR-EN-109;BAR;EN;Réduction des apports solaires par la toiture (France d'outre-mer);0;1
+BAR-EN-110;BAR;EN;Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique;1;1
+BAR-EQ-101;BAR;EQ;Lampe fluo-compacte de classe A;1;1
+BAR-EQ-102;BAR;EQ;Lave-linge ménager de classe A++ ou A+++;1;1
+BAR-EQ-103;BAR;EQ;Appareil de réfrigération ménager de classe A++ ou A+++;1;1
+BAR-EQ-110;BAR;EQ;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;1;1
+BAR-EQ-111;BAR;EQ;"Lampe à LED de classe A+ (< 01/10/2017)
+Lampe de classe A++
+(> 01/10/2017)";1;1
+BAR-EQ-112;BAR;EQ;Systèmes hydroéconomes (France métropolitaine);1;0
+BAR-EQ-113;BAR;EQ;Dispositif d’affichage et d’interprétation des consommations pour un logement chauffé à l’électricité;1;1
+BAR-EQ-114;BAR;EQ;Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible;1;1
+BAR-EQ-115;BAR;EQ;Dispositif d’affichage et d’interprétation des consommations d’énergie;1;1
+BAR-SE-104;BAR;SE;Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude;1;1
+BAR-SE-105;BAR;SE;Contrat de Performance Energétique Services (CPE Services);1;1
+BAR-SE-106;BAR;SE;Service de suivi des consommations d’énergie;1;1
+BAR-SE-107;BAR;SE;Abaissement de la température de retour vers un réseau de chaleur;1;0
+BAR-SE-108;BAR;SE;Désembouage d’un réseau hydraulique individuel de chauffage en France métropolitaine;1;0
+BAR-SE-109;BAR;SE;Désembouage d’un réseau hydraulique de chauffage collectif en France métropolitaine;1;0
+BAR-TH-101;BAR;TH;Chauffe-eau solaire individuel (France métropolitaine);1;0
+BAR-TH-102;BAR;TH;Chauffe-eau solaire collectif (France métropolitaine);1;0
+BAR-TH-104;BAR;TH;Pompe à chaleur de type air/eau ou eau/eau;1;1
+BAR-TH-106;BAR;TH;Chaudière individuelle à haute performance énergétique;1;1
+BAR-TH-107;BAR;TH;Chaudière collective haute performance énergétique;1;1
+BAR-TH-107-SE;BAR;TH;Chaudière collective haute performance énergétique avec contrat assurant la conduite de l’installation;1;1
+BAR-TH-110;BAR;TH;Radiateur basse température pour un chauffage central;1;1
+BAR-TH-111;BAR;TH;Régulation par sonde de température extérieure;1;1
+BAR-TH-112;BAR;TH;Appareil indépendant de chauffage au bois;1;1
+BAR-TH-113;BAR;TH;Chaudière biomasse individuelle;1;1
+BAR-TH-115;BAR;TH;Isolation d’un réseau hydraulique de chauffage;1;1
+BAR-TH-116;BAR;TH;Plancher chauffant hydraulique à basse température;1;1
+BAR-TH-117;BAR;TH;Robinet thermostatique;1;1
+BAR-TH-118;BAR;TH;Système de régulation par programmation d’intermittence;1;1
+BAR-TH-121;BAR;TH;Système de comptage individuel d’énergie de chauffage;1;1
+BAR-TH-122;BAR;TH;Récupérateur de chaleur à condensation;1;1
+BAR-TH-123;BAR;TH;Optimiseur de relance en chauffage collectif;1;1
+BAR-TH-124;BAR;TH;Chauffe-eau solaire individuel (France d'outre mer);0;1
+BAR-TH-125;BAR;TH;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);1;0
+BAR-TH-127;BAR;TH;Ventilation mécanique simple flux hygroréglable (France métropolitaine);1;0
+BAR-TH-129;BAR;TH;Pompe à chaleur de type air/air;1;1
+BAR-TH-130;BAR;TH;Surperformance énergétique pour un bâtiment neuf (France métropolitaine);1;0
+BAR-TH-131;BAR;TH;Isolation d’un réseau hydraulique d’eau chaude sanitaire;1;1
+BAR-TH-135;BAR;TH;Chauffe-eau solaire collectif (France d'outre mer);0;1
+BAR-TH-137;BAR;TH;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;1;1
+BAR-TH-139;BAR;TH;Système de variation électronique de vitesse sur une pompe;1;1
+BAR-TH-141;BAR;TH;Climatiseur performant (France d'outre-mer);0;1
+BAR-TH-143;BAR;TH;Système solaire combiné (France métropolitaine);1;0
+BAR-TH-145;BAR;TH;Rénovation globale d’un bâtiment résidentiel (France métropolitaine);1;0
+BAR-TH-148;BAR;TH;Chauffe-eau thermodynamique à accumulation;1;1
+BAR-TH-150;BAR;TH;Pompe à chaleur collective à absorption de type air/eau ou eau/eau;1;1
+BAR-TH-155;BAR;TH;Ventilation hybride hygroréglable (France métropolitaine);1;0
+BAR-TH-158;BAR;TH;Émetteur électrique à régulation électronique à fonctions avancées;1;1
+BAR-TH-159;BAR;TH;Pompe à chaleur hybride individuelle;1;1
+BAR-TH-160;BAR;TH;Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire;1;0
+BAR-TH-161;BAR;TH;Isolation de points singuliers d’un réseau;1;1
+BAR-TH-162;BAR;TH;Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d’eau (France métropolitaine);1;0
+BAR-TH-163;BAR;TH;Conduit d’évacuation des produits de combustion;1;1
+BAR-TH-164;BAR;TH;Rénovation globale d'une maison individuelle (France métropolitaine);1;0
+BAR-TH-165;BAR;TH;Chaudière biomasse collective;1;1
+BAR-TH-166;BAR;TH;Pompe à chaleur collective de type air/eau ou eau/eau;1;1
+BAR-TH-167;BAR;TH;"Chauffe-bain individuel à haut rendement ou à condensation
+(France métropolitaine)";1;0
+BAR-TH-168;BAR;TH;Dispositif solaire thermique (France métropolitaine);1;0
+BAR-TH-169;BAR;TH;Pompe à chaleur collective de type air/eau ou eau/eau pour l’eau chaude sanitaire;1;1
+BAR-TH-170;BAR;TH;Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective;1;1
+BAR-TH-171;BAR;TH;Pompe à chaleur de type air/eau;1;1
+BAR-TH-172;BAR;TH;Pompe à chaleur de type eau/eau ou sol/eau;1;1
+BAR-TH-173;BAR;TH;Système de régulation par programmation horaire pièce par pièce ;1;1
+BAR-TH-174;BAR;TH;Rénovation d’ampleur d’une maison individuelle (France métropolitaine);1;0
+BAR-TH-175;BAR;TH;Rénovation d’ampleur d’un appartement (France métropolitaine);1;0
+BAR-TH-176;BAR;TH;Système de régulation de la consommation d’un chauffe-eau électrique à effet Joule ;1;1
+BAR-TH-177;BAR;TH;Rénovation globale d’un bâtiment résidentiel collectif (France métropolitaine);1;0
+BAT-EN-101;BAT;EN;Isolation de combles ou de toitures;1;1
+BAT-EN-102;BAT;EN;Isolation des murs;1;1
+BAT-EN-103;BAT;EN;Isolation d’un plancher;1;1
+BAT-EN-104;BAT;EN;Fenêtre ou porte-fenêtre complète avec vitrage isolant;1;1
+BAT-EN-106;BAT;EN;Isolation de combles ou de toitures (France d’outre-mer);0;0
+BAT-EN-107;BAT;EN;Isolation des toitures terrasses;1;1
+BAT-EN-108;BAT;EN;Isolation des murs (France d’outre-mer);0;0
+BAT-EN-109;BAT;EN;Réduction des apports solaires par la toiture (France d'outre mer);0;0
+BAT-EN-110;BAT;EN;Protections des baies contre le rayonnement solaire (France d’outre-mer);0;0
+BAT-EN-111;BAT;EN;Fenêtre ou porte-fenêtre complète avec vitrage  pariétodynamique  (France métropolitaine);1;1
+BAT-EN-112;BAT;EN;Revêtements réflectifs en toiture;1;1
+BAT-EN-113;BAT;EN;Façade rideau ou semi-rideau avec vitrage isolant;1;1
+BAT-EQ-111;BAT;EQ;Luminaires à modules LED pour surfaces commerciales;1;1
+BAT-EQ-114;BAT;EQ;Éclairage LED pour meubles frigorifiques verticaux;1;1
+BAT-EQ-116;BAT;EQ;Lampe à LED de classe A+ (France d’outre- mer);0;1
+BAT-EQ-117;BAT;EQ;Installation frigorifique utilisant du CO2 subcritique ou transcritique;1;1
+BAT-EQ-123;BAT;EQ;Moto-variateur synchrone à aimants permanents ou à reluctance;1;1
+BAT-EQ-124;BAT;EQ;Fermeture des meubles frigorifiques de vente à température positive;1;1
+BAT-EQ-125;BAT;EQ;Fermeture des meubles frigorifiques de vente à température négative;1;1
+BAT-EQ-126;BAT;EQ;Lampe ou luminaire à modules LED pour l’éclairage d’accentuation;1;1
+BAT-EQ-127;BAT;EQ;Luminaire d’éclairage général à modules LED;1;1
+BAT-EQ-129;BAT;EQ;Lanterneaux d’éclairage zénithal (France Métropolitaine);1;1
+BAT-EQ-130;BAT;EQ;Système de condensation frigorifique à haute efficacité;1;1
+BAT-EQ-131;BAT;EQ;Conduits de lumière naturelle;1;1
+BAT-EQ-132;BAT;EQ;Tubes à LED à éclairage hémisphérique;1;1
+BAT-EQ-133;BAT;EQ;Systèmes  hydro-économes  (France métropolitaine);1;1
+BAT-EQ-134;BAT;EQ;Meuble frigorifique de vente performant avec groupe de production de froid intégré;1;1
+BAT-EQ-135;BAT;EQ;Dispositif performant d’alimentation sans interruption;1;1
+BAT-SE-103;BAT;SE;Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude;1;1
+BAT-SE-104;BAT;SE;Contrat de performance énergétique Services (CPE Services) Chauffage;1;1
+BAT-TH-102;BAT;TH;Chaudière collective haute performance énergétique;1;1
+BAT-TH-103;BAT;TH;Plancher chauffant hydraulique à basse température;1;1
+BAT-TH-104;BAT;TH;Robinet thermostatique;1;1
+BAT-TH-105;BAT;TH;Radiateur basse température pour un chauffage central;1;1
+BAT-TH-106;BAT;TH;Isolation d’un réseau hydraulique de chauffage;1;1
+BAT-TH-108;BAT;TH;Système de régulation par programmation d’intermittence;1;1
+BAT-TH-109;BAT;TH;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;1;1
+BAT-TH-110;BAT;TH;Récupérateur de chaleur à condensation;1;1
+BAT-TH-111;BAT;TH;Chauffe-eau solaire collectif (France métropolitaine);1;1
+BAT-TH-112;BAT;TH;Système de variation électronique de vitesse sur un moteur asynchrone;1;1
+BAT-TH-113;BAT;TH;Pompe à chaleur de type air/eau ou eau/eau;1;1
+BAT-TH-115;BAT;TH;Climatiseur performant (France d'outre mer);0;0
+BAT-TH-116;BAT;TH;Système de gestion technique du bâtiment pour le chauffage, l’eau chaude sanitaire, le refroidissement/climatisation, l’éclairage et les auxiliaires;1;1
+BAT-TH-119;BAT;TH;Isolation d’un réseau hydraulique d’eau chaude sanitaire;1;1
+BAT-TH-121;BAT;TH;Chauffe-eau solaire (France d'outre mer);0;0
+BAT-TH-122;BAT;TH;Programmateur d’intermittence pour la climatisation (France d’outre-mer);0;0
+BAT-TH-125;BAT;TH;Ventilation mécanique simple flux à débit d’air constant ou modulé;1;1
+BAT-TH-126;BAT;TH;Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé;1;1
+BAT-TH-127;BAT;TH;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;1;1
+BAT-TH-134;BAT;TH;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine);1;1
+BAT-TH-135;BAT;TH;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer);0;0
+BAT-TH-139;BAT;TH;Système de récupération de chaleur sur un groupe de production de froid;1;1
+BAT-TH-140;BAT;TH;Pompe à chaleur à absorption de type air/eau ou eau/eau;1;1
+BAT-TH-141;BAT;TH;Pompe à chaleur à moteur gaz de type air/eau;1;1
+BAT-TH-142;BAT;TH;Système de déstratification d’air;1;1
+BAT-TH-143;BAT;TH;Ventilo-convecteurs haute performance;1;1
+BAT-TH-145;BAT;TH;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante (France métropolitaine);1;1
+BAT-TH-146;BAT;TH;Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire;1;1
+BAT-TH-153;BAT;TH;Système de confinement des allées froides et allées chaudes dans un Data Center;1;1
+BAT-TH-154;BAT;TH;Récupération instantanée de chaleur sur eaux grises;1;1
+BAT-TH-155;BAT;TH;Isolation de points singuliers d’un réseau;1;1
+BAT-TH-156;BAT;TH;Freecooling par eau de refroidissement en substitution d'un groupe froid pour la climatisation;1;1
+BAT-TH-157;BAT;TH;Chaudière biomasse collective;1;1
+BAT-TH-158;BAT;TH;Pompe à chaleur réversible de type air/air;1;1
+BAT-TH-159;BAT;TH;Raccordement d’un bâtiment tertiaire à un réseau de froid;1;1
+BAT-TH-160;BAT;TH;Vannes de régulation étanches à servomoteurs économes (France métropolitaine);1;0
+BAT-TH-161;BAT;TH;Maintien en température de groupes électrogènes de secours par pompe à chaleur de type air/eau;1;1
+IND-BA-110;IND;BA;Dé-stratificateur ou brasseur d'air;1;1
+IND-BA-112;IND;BA;Système de récupération de chaleur sur une tour aéroréfrigérante;1;1
+IND-BA-113;IND;BA;Lanterneaux d’éclairage zénithal (France Métropolitaine);1;0
+IND-BA-114;IND;BA;Conduits de lumière naturelle;1;1
+IND-BA-115;IND;BA;Tubes à LED à éclairage hémisphérique;1;1
+IND-BA-116;IND;BA;Luminaires à modules LED;1;1
+IND-BA-117;IND;BA;Chauffage décentralisé performant;1;1
+IND-EN-101;IND;EN;Isolation des murs (France d’outre-mer);0;1
+IND-EN-102;IND;EN;Isolation de combles ou de toitures (France d’outre-mer);0;1
+IND-UT-102;IND;UT;Système de variation électronique de vitesse sur un moteur asynchrone;1;1
+IND-UT-103;IND;UT;Système de récupération de chaleur sur un compresseur d’air;1;1
+IND-UT-104;IND;UT;Économiseur sur les effluents gazeux d’une chaudière de production de vapeur;1;1
+IND-UT-105;IND;UT;Brûleur micromodulant sur chaudière industrielle;1;1
+IND-UT-112;IND;UT;Moteur haut rendement de classe IE2;1;1
+IND-UT-113;IND;UT;Système de condensation frigorifique à haute efficacité;1;1
+IND-UT-114;IND;UT;Moto-variateur synchrone à aimants permanents ou à reluctance;1;1
+IND-UT-115;IND;UT;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante;1;1
+IND-UT-116;IND;UT;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante;1;1
+IND-UT-117;IND;UT;Système de récupération de chaleur sur un groupe de production de froid;1;1
+IND-UT-118;IND;UT;Brûleur avec dispositif de récupération de chaleur sur un four industriel;1;1
+IND-UT-120;IND;UT;Compresseur d’air basse pression à vis ou centrifuge;1;1
+IND-UT-121;IND;UT;Matelas pour l’isolation de points singuliers;1;1
+IND-UT-122;IND;UT;Sécheur d'air comprimé à adsorption utilisant un apport calorifique pour sa régénération;1;1
+IND-UT-123;IND;UT;Moteur premium de classe IE3;1;1
+IND-UT-124;IND;UT;Séquenceur électronique pour le pilotage d’une centrale de production d’air comprimé;1;1
+IND-UT-125;IND;UT;Traitement d’eau performant sur chaudière de production de vapeur;1;1
+IND-UT-127;IND;UT;Système de transmission performant;1;1
+IND-UT-129;IND;UT;Presse à injecter tout électrique ou hybride;1;1
+IND-UT-130;IND;UT;Condenseur sur les effluents gazeux d’une chaudière de production de vapeur;1;1
+IND-UT-131;IND;UT;Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine);1;1
+IND-UT-132;IND;UT;Moteur asynchrone de classe IE4;1;1
+IND-UT-133;IND;UT;Système électronique de pilotage d’un moteur électrique avec récupération d’énergie;1;1
+IND-UT-134;IND;UT;Système de mesurage d’indicateurs de performance énergétique;1;1
+IND-UT-135;IND;UT;Freecooling par eau de refroidissement en substitution d'un groupe froid;1;1
+IND-UT-136;IND;UT;Systèmes moto-régulés;1;1
+IND-UT-137;IND;UT;Mise en place d’un système de pompe(s) à chaleur en rehausse de température de chaleur fatale récupérée;1;1
+IND-UT-138;IND;UT;Conversion de chaleur fatale en électricité ou en air comprimé;1;1
+IND-UT-139;IND;UT;Système de stockage de chaleur fatale;1;1
+RES-CH-101;RES;CH;Valorisation de chaleur de récupération en réseau (France métropolitaine);1;0
+RES-CH-103;RES;CH;Réhabilitation d’un poste de livraison de chaleur d’un bâtiment tertiaire;1;1
+RES-CH-104;RES;CH;Réhabilitation d’un poste de livraison de chaleur d’un bâtiment résidentiel;1;1
+RES-CH-105;RES;CH;Passage d'un réseau de chaleur en basse température;1;1
+RES-CH-106;RES;CH;Mise en place d’un calorifugeage des canalisations d’un réseau de chaleur;1;1
+RES-CH-107;RES;CH;Isolation de points singuliers sur un réseau de chaleur;1;1
+RES-CH-108;RES;CH;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);1;0
+RES-EC-101;RES;EC;Système de régulation de tension en éclairage extérieur;1;1
+RES-EC-102;RES;EC;Système de maîtrise de la puissance réactive en éclairage extérieur;1;1
+RES-EC-103;RES;EC;Système de variation de puissance en éclairage extérieur;1;1
+RES-EC-104;RES;EC;Rénovation d’éclairage extérieur;1;1
+RES-EC-107;RES;EC;Horloge astronomique pour l’éclairage extérieur;1;1
+TRA-EQ-101;TRA;EQ;Unité de transport intermodal pour le transport combiné rail-route;1;1
+TRA-EQ-103;TRA;EQ;Télématique embarquée pour le suivi de la conduite d’un véhicule;1;1
+TRA-EQ-104;TRA;EQ;Lubrifiant économiseur d’énergie pour véhicules légers;1;1
+TRA-EQ-106;TRA;EQ;Pneus de véhicules légers à basse résistance au roulement;1;1
+TRA-EQ-107;TRA;EQ;Unité de transport intermodal pour le transport combiné fluvial-route;1;1
+TRA-EQ-108;TRA;EQ;Wagon d'autoroute ferroviaire;1;1
+TRA-EQ-109;TRA;EQ;Barge fluviale;1;1
+TRA-EQ-110;TRA;EQ;Automoteur fluvial;1;1
+TRA-EQ-111;TRA;EQ;Groupes frigorifiques autonomes à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques;1;1
+TRA-EQ-113;TRA;EQ;Lubrifiant économiseur d’énergie pour des véhicules de transport de personnes ou de marchandises;1;1
+TRA-EQ-114;TRA;EQ;Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle;1;1
+TRA-EQ-115;TRA;EQ;Véhicules de transport de marchandises optimisé;1;1
+TRA-EQ-117;TRA;EQ;Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités;1;1
+TRA-EQ-118;TRA;EQ;Lubrifiant économiseur d’énergie pour la pêche professionnelle;1;1
+TRA-EQ-119;TRA;EQ;Optimisation de la combustion et de la propreté des moteurs Diesel;1;1
+TRA-EQ-120;TRA;EQ;Hélice avec tuyère sur une unité de transport fluvial;1;1
+TRA-EQ-121;TRA;EQ;Vélo à assistance électrique;1;1
+TRA-EQ-123;TRA;EQ;Simulateur de conduite;1;1
+TRA-EQ-124;TRA;EQ;Branchement électrique des navires et bateaux à quai;1;1
+TRA-EQ-125;TRA;EQ;« Stop & Start » pour véhicules ferroviaires;1;1
+TRA-EQ-126;TRA;EQ;Remotorisation en propulsion électrique ou hybride d’un bateau naviguant en eaux intérieures;1;1
+TRA-SE-101;TRA;SE;Formation d’un chauffeur de transport à la conduite économe;1;1
+TRA-SE-102;TRA;SE;Formation d’un chauffeur de véhicule léger à la conduite économe;1;1
+TRA-SE-104;TRA;SE;Station de gonflage des pneumatiques;1;1
+TRA-SE-105;TRA;SE;Recreusage des pneumatiques;1;1
+TRA-SE-106;TRA;SE;Mesure et optimisation des consommations de carburant pour une unité de transport fluvial;1;1
+TRA-SE-107;TRA;SE;Carénage sur une unité de transport fluvial;1;1
+TRA-SE-108;TRA;SE;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);1;1
+TRA-SE-109;TRA;SE;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes);1;1
+TRA-SE-110;TRA;SE;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);1;1
+TRA-SE-111;TRA;SE;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes);1;1
+TRA-SE-112;TRA;SE;Service d’autopartage en boucle;1;1
+TRA-SE-113;TRA;SE;Suivi des consommations de carburants grâce à des cartes privatives;1;1
+TRA-SE-114;TRA;SE;Covoiturage de longue distance;1;1
+TRA-SE-115;TRA;SE;Covoiturage de courte distance;1;1
+TRA-SE-116;TRA;SE;Fret ferroviaire;1;1
+TRA-EQ-127;TRA;EQ;Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures;1;1
+TRA-EQ-128;TRA;EQ;Achat ou location d’un autocar ou d’un autobus électrique neuf ou réalisation d’une opération de rétrofit électrique d’autocar ou d’autobus ;1;1
