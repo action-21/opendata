@@ -1,0 +1,68 @@
+﻿id;poste;geste
+chauffage . système solaire combiné;chauffage;système solaire combiné
+chauffage . système solaire hybride;chauffage;système solaire hybride
+chauffage . pompe à chaleur air/air;chauffage;pompe à chaleur air/air
+chauffage . pompe à chaleur air/eau;chauffage;pompe à chaleur air/eau
+chauffage . pompe à chaleur eau/eau;chauffage;pompe à chaleur eau/eau
+chauffage . pompe à chaleur sol/eau;chauffage;pompe à chaleur sol/eau
+chauffage . pompe à chaleur hybride;chauffage;pompe à chaleur hybride
+chauffage . raccordement à un réseau de chaleur;chauffage;raccordement à un réseau de chaleur
+chauffage . poêle;chauffage;poêle
+chauffage . insert;chauffage;insert
+chauffage . chaudière basse température;chauffage;chaudière basse température
+chauffage . chaudière à condensation;chauffage;chaudière à condensation
+chauffage . chaudière biomasse;chauffage;chaudière biomasse
+chauffage . radiateur électrique;chauffage;radiateur électrique
+eau chaude sanitaire . système solaire combiné;eau chaude sanitaire;système solaire combiné
+eau chaude sanitaire . système solaire hybride;eau chaude sanitaire;système solaire hybride
+eau chaude sanitaire . pompe à chaleur air/eau;eau chaude sanitaire;pompe à chaleur air/eau
+eau chaude sanitaire . pompe à chaleur eau/eau;eau chaude sanitaire;pompe à chaleur eau/eau
+eau chaude sanitaire . pompe à chaleur sol/eau;eau chaude sanitaire;pompe à chaleur sol/eau
+eau chaude sanitaire . pompe à chaleur hybride;eau chaude sanitaire;pompe à chaleur hybride
+eau chaude sanitaire . chaudière basse température;eau chaude sanitaire;chaudière basse température
+eau chaude sanitaire . chaudière à condensation;eau chaude sanitaire;chaudière à condensation
+eau chaude sanitaire . chaudière biomasse;eau chaude sanitaire;chaudière biomasse
+eau chaude sanitaire . chauffe-bain;eau chaude sanitaire;chauffe-bain
+eau chaude sanitaire . chauffe-eau solaire;eau chaude sanitaire;chauffe-eau solaire
+eau chaude sanitaire . chauffe-eau thermodynamique;eau chaude sanitaire;chauffe-eau thermodynamique
+mur . isolation des murs par l'extérieur;mur;isolation des murs par l'extérieur
+mur . isolation des murs par l'intérieur;mur;isolation des murs par l'intérieur
+ouverture . fenêtre de toit isolante;ouverture;fenêtre de toit isolante
+ouverture . fenêtre et porte-fenêtre isolante;ouverture;fenêtre et porte-fenêtre isolante
+ouverture . porte isolante;ouverture;porte isolante
+plancher bas . isolation d'un plancher par l'extérieur;plancher bas;isolation d'un plancher par l'extérieur
+plancher bas . isolation d'un plancher par l'intérieur;plancher bas;isolation d'un plancher par l'intérieur
+plancher haut . isolation des planchers de combles perdus;plancher haut;isolation des planchers de combles perdus
+plancher haut . isolation des rampants de toiture par l'extérieur;plancher haut;isolation des rampants de toiture par l'extérieur
+plancher haut . isolation des rampants de toiture par l'intérieur;plancher haut;isolation des rampants de toiture par l'intérieur
+plancher haut . isolation d'une toiture terrasse par l'extérieur;plancher haut;isolation d'une toiture terrasse par l'extérieur
+protection solaire . fermeture isolante;protection solaire;fermeture isolante
+protection solaire . protection solaire des façades;protection solaire;protection solaire des façades
+protection solaire . protection solaire des ouvrants;protection solaire;protection solaire des ouvrants
+protection solaire . protection solaire d'une toiture;protection solaire;protection solaire d'une toiture
+refroidissement . climatiseur;refroidissement;climatiseur
+refroidissement . pompe à chaleur;refroidissement;pompe à chaleur
+refroidissement . raccordement à un réseau de froid;refroidissement;raccordement à un réseau de froid
+régulation . dispositif d'affichage et d'interprétation des consommations d'énergie;régulation;dispositif d'affichage et d'interprétation des consommations d'énergie
+régulation . régulation par sonde de température extérieure;régulation;régulation par sonde de température extérieure
+régulation . robinet thermostatique;régulation;robinet thermostatique
+régulation . système de comptage individuel d'énergie de chauffage;régulation;système de comptage individuel d'énergie de chauffage
+régulation . système de régulation par programmation d'intermittence;régulation;système de régulation par programmation d'intermittence
+régulation . système de régulation de la consommation d'un chauffe-eau électrique à effet Joule;régulation;système de régulation de la consommation d'un chauffe-eau électrique à effet Joule
+réseau . abaissement de la température de retour vers un réseau de chaleur;réseau;abaissement de la température de retour vers un réseau de chaleur
+réseau . conduit d'évacuation des produits de combustion;réseau;conduit d'évacuation des produits de combustion
+réseau . désembouage d'un réseau de chauffage;réseau;désembouage d'un réseau de chauffage
+réseau . désembouage d'un réseau d'eau chaude sanitaire;réseau;désembouage d'un réseau d'eau chaude sanitaire
+réseau . isolation d'un réseau de chauffage;réseau;isolation d'un réseau de chauffage
+réseau . isolation d'un réseau d'eau chaude sanitaire;réseau;isolation d'un réseau d'eau chaude sanitaire
+réseau . optimiseur de relance;réseau;optimiseur de relance
+réseau . récupérateur de chaleur à condensation;réseau;récupérateur de chaleur à condensation
+réseau . système de variation électronique de vitesse sur une pompe;réseau;système de variation électronique de vitesse sur une pompe
+réseau . plancher chauffant basse température;réseau;plancher chauffant basse température
+réseau . radiateur basse température;réseau;radiateur basse température
+ventilation . ventilation mécanique simple flux;ventilation;ventilation mécanique simple flux
+ventilation . ventilation mécanique double flux;ventilation;ventilation mécanique double flux
+ventilation . ventilation mécanique répartie;ventilation;ventilation mécanique répartie
+ventilation . ventilation hybride;ventilation;ventilation hybride
+ventilation . puit canadien;ventilation;puit canadien
+ventilation . puit provençal;ventilation;puit provençal
